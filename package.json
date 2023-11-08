@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "LEARN_JENKINS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cuanh1612/LEARN_JENKINS.git",
+  "author": "Nguyen Quang Huy <huynqdev1612@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
